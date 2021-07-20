@@ -1,0 +1,18 @@
+Nombre y Ampellido: Gaston Addati
+Direccion:
+	Calle:general paz
+	Altura: 96
+	CP:1870
+	Piso:6
+	Depto:d
+Fecha ultima compra: 11 - 2 - 19
+
+Nombre y Ampellido: Jorge Perez
+Direccion:
+	Calle:alsina
+	Altura: 49
+	CP:1430
+	Piso:3
+	Depto:a
+Fecha ultima compra: 14 - 10 - 12
+
